@@ -1,0 +1,9 @@
+Package: de.rud0lf77.autopause
+Name: AutoPause
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Automatically pauses Music when Volume is turned all the way down. Also resumes your Music when Volume is increased again. Only works with Volume Buttons, not with Volume Sliders.
+Maintainer: rud0lf77
+Author: rud0lf77
+Section: Tweaks
